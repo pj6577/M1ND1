@@ -3,22 +3,23 @@ public class Class2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-	    //¹®Á¦ 
-	    //ÀÌ¸§ : ¹ÚÀçÇö
-	    //³ªÀÌ : 23
-	    //Å°  :   178.7
-	    //¾ÆÀÌÅ¥ 120
-	    //µî±Ş : B
+	    	    //ë¬¸ì œ 
+	    //ì´ë¦„ : ë°•ì¬í˜„
+	    //ë‚˜ì´ : 23
+	    //í‚¤  :   178.7
+	    //ì•„ì´í 120
+	    //ë“±ê¸‰ : B
 	    
-	    String name = "¹ÚÀçÇö";
+	    String name = "ë°•ì¬í˜„";
 	    int age = 23;
 	    double stature = 178.7;
 	    int iq = 120;
-	    char µî±Ş = 'B';
-	    System.out.println("ÀÌ¸§\t:" + name);
-	    System.out.println("³ªÀÌ\t:" +age);
-	    System.out.println("¾ÆÀÌÅ¥\t:" + iq);
-	    System.out.println("µî±Ş\t:" + µî±Ş);
+	    char ë“±ê¸‰ = 'B';
+	    System.out.println("ì´ë¦„\t:" + name);
+	    System.out.println("ë‚˜ì´\t:" +age);
+	    System.out.println("í‚¤\t:" + stature);
+	    System.out.println("ì•„ì´í\t:" + iq);
+	    System.out.println("ë“±ê¸‰\t:" + ë“±ê¸‰);
 	    
 	    
 	}
