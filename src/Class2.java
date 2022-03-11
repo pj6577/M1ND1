@@ -12,7 +12,7 @@ public class Class2 {
 	    
 	    String name = "박재현";
 	    int age = 23;
-	    double key = 178.7;
+	    double stature = 178.7;
 	    int iq = 120;
 	    char 등급 = 'B';
 	    System.out.println("이름\t:" + name);
